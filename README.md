@@ -6,7 +6,7 @@ The application is available in Google Earth Engine by link below:
 https://javadian.users.earthengine.app/view/evapotranspiration-trend-monitoring
 
 
-**Citation: **
+**Citation:
 
 Javadian, M.; Behrangi, A.; Smith, W.K.; Fisher, J.B. Global Trends in Evapotranspiration Dominated by Increases across Large Cropland Regions. Remote Sens. 2020, 12, 1221.
 https://www.mdpi.com/2072-4292/12/7/1221
